@@ -28,10 +28,9 @@ We use a mock SQL table named `user_sessions`, containing:
 
 ## 📂 Folder Structure
 
-notebook/ → Contains the Jupyter Notebook
-data/ → Synthetic CSV (optional export)
+notebook/ → Contains the Jupyter Notebook  
+data/ → Synthetic CSV (optional export)  
 images/ → Visuals generated from the analysis
-
 
 ---
 
@@ -56,7 +55,17 @@ images/ → Visuals generated from the analysis
 
 ## 📸 Screenshots
 
-<img src="images/charts.png" width="700"/>
+### 📍 Page Visit Count  
+<img src="images/Page_visit_count.png" width="700"/>
+
+### 📱 Device Type vs Completed Interns  
+<img src="images/Device_Type_VS_Completed_Interns.png" width="700"/>
+
+### 🌍 Sessions by User Location  
+<img src="images/Sessions_by_uselocation.png" width="700"/>
+
+### ❌ User Drop Off Analysis  
+<img src="images/User_Drop_Off.png" width="700"/>
 
 ---
 
@@ -92,4 +101,3 @@ Thanks to **[Internee.pk](https://internee.pk)** for the internship opportunity 
 ---
 
 > ⭐ If you found this project useful or inspiring, consider giving it a star!
-
