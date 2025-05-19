@@ -67,6 +67,7 @@ images/ → Visuals generated from the analysis
 ### ❌ User Drop Off Analysis  
 <img src="User_Drop_Off.JPG" width="700"/>
 
+
 ---
 
 ## 📈 Summary of Results
