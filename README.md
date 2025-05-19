@@ -57,3 +57,39 @@ images/ → Visuals generated from the analysis
 ## 📸 Screenshots
 
 <img src="images/charts.png" width="700"/>
+
+---
+
+## 📈 Summary of Results
+
+- Identified that most users drop off after the "Upload Resume" stage.
+- Mobile users had a slightly higher drop-off rate compared to desktop users.
+- Peak activity came from Lahore and Karachi between 2 PM – 6 PM.
+- Suggested UX improvements include clearer progress indicators and simplified upload process.
+
+---
+
+## 🧠 Key Learnings
+
+- Practiced writing SQL queries for behavioral analytics.
+- Simulated a realistic user session dataset using Python.
+- Applied SQL within Jupyter Notebook using SQLite.
+- Created actionable insights based on data-driven decisions.
+
+---
+
+## 🙌 Acknowledgments
+
+Thanks to **[Internee.pk](https://internee.pk)** for the internship opportunity and giving me the chance to explore real-world data problems.
+
+---
+
+## 🔗 Connect with Me
+
+**📧 Email:** madadallahbhatti786@gmailcom  
+**🌐 LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/madadallah-bhatti-9698b1217)  
+
+---
+
+> ⭐ If you found this project useful or inspiring, consider giving it a star!
+
