@@ -65,7 +65,7 @@ images/ → Visuals generated from the analysis
 <img src="Sessions_by_uselocation.JPG" width="700"/>
 
 ### ❌ User Drop Off Analysis  
-<img src="User_Drop_Off.JPG" width="700"/>
+<img src="User_Drop_Off.jpg" width="700"/>
 
 
 ---
