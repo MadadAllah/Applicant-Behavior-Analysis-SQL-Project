@@ -56,13 +56,13 @@ images/ → Visuals generated from the analysis
 ## 📸 Screenshots
 
 ### 📍 Page Visit Count  
-<img src="Page_visit_count.JPG" width="700"/>
+<img src="Page_visit_count.jpg" width="500"/>
 
 ### 📱 Device Type vs Completed Interns  
-<img src="Device_Type_VS_Completed_Interns.JPG" width="700"/>
+<img src="Device_Type_VS_Completed_Interns.jpg" width="700"/>
 
 ### 🌍 Sessions by User Location  
-<img src="Sessions_by_uselocation.JPG" width="700"/>
+<img src="Sessions_by_uselocation.jpg" width="700"/>
 
 ### ❌ User Drop Off Analysis  
 <img src="User_Drop_Off.jpg" width="700"/>
